@@ -1,0 +1,209 @@
+PCBNEW-LibModule-V1  Tuesday, July 01, 2014 'AMt' 11:13:35 AM
+# encoding utf-8
+Units mm
+$INDEX
+CK_TPA511G
+CK_TSWB-3N-CB222_LFS
+$EndINDEX
+$MODULE CK_TPA511G
+Po 0 0 0 15 51CDF839 00000000 ~~
+Li CK_TPA511G
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N "CK_TPA511G"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DS -5.325 5.3 -5.325 -2.7 0.2032 21
+DS 2.725 5.3 -5.325 5.3 0.2032 21
+DS 2.725 -2.7 2.725 5.3 0.2032 21
+DS -5.325 -2.7 2.725 -2.7 0.2032 21
+DC 0 0 1 0 0.2032 21
+$PAD
+Sh "7" R 1 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.75 -1.7
+$EndPAD
+$PAD
+Sh "6" R 1 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.75 0
+$EndPAD
+$PAD
+Sh "2" R 1 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.75 2.6
+$EndPAD
+$PAD
+Sh "1" R 1 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.75 4.3
+$EndPAD
+$PAD
+Sh "4" R 1 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.15 4.3
+$EndPAD
+$PAD
+Sh "3" R 1 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.15 2.6
+$EndPAD
+$PAD
+Sh "5" R 1 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.15 -1.7
+$EndPAD
+$PAD
+Sh "" C 0.8 0.8 0 0 0
+Dr 0.8 0 0
+At HOLE N 00F0FFFF
+Ne 0 ""
+Po -2.7 -1.5
+$EndPAD
+$PAD
+Sh "" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00F0FFFF
+Ne 0 ""
+Po 1.5 2.7
+$EndPAD
+$EndMODULE CK_TPA511G
+$MODULE CK_TSWB-3N-CB222_LFS
+Po 0 0 0 15 53B2FA4B 00000000 ~~
+Li CK_TSWB-3N-CB222_LFS
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N "CK_TSWB-3N-CB222_LFS"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DC 0 0 11.45 0 0.15 21
+DC 0 0 4.05 0 0.15 21
+DC 0 0 16 0 0.15 21
+DC 0 0 17.2 0 0.15 21
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.6 0 0
+At HOLE N 00C0FFFF
+Ne 0 ""
+Po -3.182 -3.182
+.LocalClearance 0.4
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.6 0 0
+At HOLE N 00C0FFFF
+Ne 0 ""
+Po 3.182 3.182
+.LocalClearance 0.4
+$EndPAD
+$PAD
+Sh "CA" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.548 -6.548
+$EndPAD
+$PAD
+Sh "A" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.548 6.548
+$EndPAD
+$PAD
+Sh "" C 4 4 0 0 0
+Dr 4 0 0
+At HOLE N 00C0FFFF
+Ne 0 ""
+Po -10.607 -10.607
+.LocalClearance 0.4
+$EndPAD
+$PAD
+Sh "" C 4 4 0 0 0
+Dr 4 0 0
+At HOLE N 00C0FFFF
+Ne 0 ""
+Po 10.607 -10.607
+.LocalClearance 0.4
+$EndPAD
+$PAD
+Sh "" C 4 4 0 0 0
+Dr 4 0 0
+At HOLE N 00C0FFFF
+Ne 0 ""
+Po 10.607 10.607
+.LocalClearance 0.4
+$EndPAD
+$PAD
+Sh "" C 4 4 0 0 0
+Dr 4 0 0
+At HOLE N 00C0FFFF
+Ne 0 ""
+Po -10.607 10.607
+.LocalClearance 0.4
+$EndPAD
+$PAD
+Sh "S1" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.11 1.11
+$EndPAD
+$PAD
+Sh "B" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.548 -6.548
+$EndPAD
+$PAD
+Sh "S3" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.15 -3.606
+$EndPAD
+$PAD
+Sh "S2" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.75 15.104
+$EndPAD
+$PAD
+Sh "CB" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.253 16.08
+$EndPAD
+$PAD
+Sh "S5" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.15 3.606
+$EndPAD
+$PAD
+Sh "S4" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.75 -15.104
+$EndPAD
+$EndMODULE CK_TSWB-3N-CB222_LFS
+$EndLIBRARY

@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.3  Date: Thu 30 May 2013 05:02:07 PM PDT
+#encoding utf-8
+#
+# TP
+#
+DEF ~TP TP 0 0 N N 1 F N
+F0 "TP" -200 0 60 H V C CNN
+F1 "TP" -50 -150 60 H I C CNN
+$FPLIST
+ TP_*
+$ENDFPLIST
+DRAW
+C -25 0 25 0 1 0 F
+X TP 1 100 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

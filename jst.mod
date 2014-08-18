@@ -1,0 +1,55 @@
+PCBNEW-LibModule-V1  Tue 25 Jun 2013 07:52:57 PM PDT
+# encoding utf-8
+Units mm
+$INDEX
+JST_S5B-XH-A
+$EndINDEX
+$MODULE JST_S5B-XH-A
+Po 0 0 0 15 51CA5756 00000000 ~~
+Li JST_S5B-XH-A
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N "JST_S5B-XH-A"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DS 9.2 -7.45 9.2 7.45 0.2032 21
+DS 9.2 7.45 -2.3 7.45 0.2032 21
+DS -2.3 7.45 -2.3 -7.45 0.2032 21
+DS -2.3 -7.45 9.2 -7.45 0.2032 21
+$PAD
+Sh "1" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po 0 5
+$EndPAD
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po 0 2.5
+$EndPAD
+$PAD
+Sh "3" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "4" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po 0 -2.5
+$EndPAD
+$PAD
+Sh "5" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00F0FFFF
+Ne 0 ""
+Po 0 -5
+$EndPAD
+$EndMODULE JST_S5B-XH-A
+$EndLIBRARY

@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.3  Date: Mon 24 Jun 2013 07:15:30 PM PDT
+#encoding utf-8
+#
+# 54132-4097
+#
+DEF 54132-4097 J 0 40 Y Y 1 F N
+F0 "J" 0 0 60 H V C CNN
+F1 "54132-4097" 0 0 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library
