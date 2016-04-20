@@ -1,4 +1,4 @@
-(module headerx:HEADER_16X2_TH_254 (layer F.Cu) (tedit 524F078B)
+(module HEADER_16X2_TH_254 (layer F.Cu) (tedit 524F078B)
   (fp_text reference HEADER_16X2_TH_254 (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
