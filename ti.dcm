@@ -4,4 +4,8 @@ $CMP AM26LV31E
 D RS-422 TX driver x 4
 $ENDCMP
 #
+$CMP AM26LV32E
+D RS-422 RX receiver x 4
+$ENDCMP
+#
 #End Doc Library
