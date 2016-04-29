@@ -1,9 +1,9 @@
-(module MOLEX_0732511350 (layer F.Cu) (tedit 572289DF)
+(module MOLEX_0732511350 (layer F.Cu) (tedit 5722F819)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
   )
   (fp_text value MOLEX_0732511350 (at 0 -0.5) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
   )
   (fp_line (start -3.175 3.175) (end -3.175 -3.175) (layer F.SilkS) (width 0.1524))
   (fp_line (start 3.175 3.175) (end -3.175 3.175) (layer F.SilkS) (width 0.1524))

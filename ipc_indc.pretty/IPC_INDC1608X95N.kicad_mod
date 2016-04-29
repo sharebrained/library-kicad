@@ -1,4 +1,4 @@
-(module IPC_INDC1608X95N (layer F.Cu) (tedit 53B37887)
+(module IPC_INDC1608X95N (layer F.Cu) (tedit 5722F913)
   (fp_text reference IPC_INDC1608X95N (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
   )
