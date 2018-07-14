@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX-M8
+D Concurrent GNSS module
+K u-blox, GNSS, GPS, Galileo, GLONASS, BeiDou, receiver
+$ENDCMP
+#
+#End Doc Library

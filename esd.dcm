@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD4_USON
+D Four channel ESD protection, straight-through routing
+K ESD, 4 channel, straight-through routing
+$ENDCMP
+#
+#End Doc Library

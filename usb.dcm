@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB_C
+D USB-C socket
+K USB, USB-C, Type-C
+$ENDCMP
+#
+#End Doc Library

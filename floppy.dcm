@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FLOPPY_IDC
+D Connector, double row, 02x17
+K connector
+$ENDCMP
+#
+#End Doc Library

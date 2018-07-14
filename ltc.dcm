@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LTC6906
+D Micropower, 10kHz to 1MHz resistor-set oscillator
+F http://cds.linear.com/docs/en/datasheet/6906fc.pdf
+$ENDCMP
+#
 #End Doc Library

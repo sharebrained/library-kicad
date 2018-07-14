@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKY13314_374LF
+D 0.1 to 6.0 GHz GaAs SPDT Switch
+K RF switch SPDT
+F http://www.skyworksinc.com/uploads/documents/SKY13314_374LF_200882J.pdf
+$ENDCMP
+#
+#End Doc Library

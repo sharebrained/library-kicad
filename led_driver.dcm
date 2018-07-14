@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_DRIVER_SOT[56]
+D LED driver boost regulator common symbol
+K LED, boost, driver, regulator
+$ENDCMP
+#
+#End Doc Library

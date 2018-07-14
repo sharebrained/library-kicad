@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CBTL02042A
+D Two differential channel 2:1 multiplexer/demultiplexer switch
+K PCIe, USB, SuperSpeed, SATA, DisplayPort
+$ENDCMP
+#
+$CMP CBTL02042B
+D Two differential channel 2:1 multiplexer/demultiplexer switch
+K PCIe, USB, SuperSpeed, SATA, DisplayPort
+$ENDCMP
+#
+$CMP PI3PCIE3242A
+D 3.3V PCI Express 3.0 4 channel 2x2 exchange switch
+K switch, mux, PCIe, PCI Express, exchange
+$ENDCMP
+#
+$CMP TC7USB42MU
+D Dual high-speed USB 2.0 DPDT analog switch
+K USB, switch, DPDT
+$ENDCMP
+#
+#End Doc Library

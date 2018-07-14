@@ -1,3 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: Fri 28 Jun 2013 04:09:23 PM PDT
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT4004[_AB]
+D LED Driver, 4 channel
+K LED driver, constant current
+$ENDCMP
 #
 #End Doc Library

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CEM3320
+D Voltage controlled filter
+$ENDCMP
+#
+$CMP V3320
+D Voltage controlled filter
+$ENDCMP
+#
+#End Doc Library

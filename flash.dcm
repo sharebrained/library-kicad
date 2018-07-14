@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SST39SF0[124]0A_PH
+D JEDEC Flash x8 pinout, DIP
+K JEDEC, Flash
+$ENDCMP
+#
+$CMP SST39SF0[124]0A_WH
+D JEDEC Flash x8 pinout, TSOP
+K JEDEC, Flash
+$ENDCMP
+#
+#End Doc Library

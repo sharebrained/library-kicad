@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HEADER_JTAG_SWD_TARGET_2X5
+D ARM Cortex JTAG/SWD target connector, 2x5 0.05" pitch
+K ARM, Cortex, JTAG, SWD, target, debug
+$ENDCMP
+#
+#End Doc Library

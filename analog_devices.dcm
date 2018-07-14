@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HMC190BMS8
+D GaAs MMIC SPDT Switch, DC - 3GHz
+K RF Switch
+$ENDCMP
+#
 #End Doc Library

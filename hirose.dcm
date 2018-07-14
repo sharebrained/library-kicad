@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HIROSE_DF9-41P
+D VESA FPDI 41-pin connector
+K VESA FPDI-1B
+$ENDCMP
+#
+$CMP HIROSE_DF9-41S
+D VESA FPDI 41-pin connector
+K VESA FPDI-1B
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74ALVC164245_SOP
+D 16-bit dual supply translating transceiver, tri-state
+K SOT370-1, SSOP48, SOT362-1, TSSOP48
+$ENDCMP
+#
+$CMP INV
+D Single inverter gate
+K logic, inverter, not
+F https://www.diodes.com/assets/Datasheets/74AHCT1G04.pdf
+$ENDCMP
+#
+$CMP SN74AUP2G04
+D Low-Power Dual Inverter Gate
+K Inverter Logic
+F http://www.ti.com/lit/ds/symlink/sn74aup2g04.pdf
+$ENDCMP
+#
+#End Doc Library
