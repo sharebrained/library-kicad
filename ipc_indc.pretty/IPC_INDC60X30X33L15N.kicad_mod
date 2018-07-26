@@ -1,4 +1,4 @@
-(module IPC_INDC60X30X33L15N (layer F.Cu) (tedit 5B463B3C)
+(module IPC_INDC60X30X33L15N (layer F.Cu) (tedit 5B5A047E)
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
@@ -19,5 +19,5 @@
   (fp_line (start -0.600000 0.330000) (end -0.600000 -0.330000) (layer F.CrtYd) (width 0.050000))
   (pad 1 smd rect (at -0.280000 0.000000 0.0) (size 0.340000 0.360000) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.280000 0.000000 0.0) (size 0.340000 0.360000) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_0201_0603Metric.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_0201_0603Metric.step (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

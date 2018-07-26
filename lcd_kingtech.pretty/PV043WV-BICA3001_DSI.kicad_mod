@@ -1,4 +1,4 @@
-(module PV043WV-BICA3001_DSI (layer F.Cu) (tedit 5A62BACC)
+(module PV043WV-BICA3001_DSI (layer F.Cu) (tedit 5B5A116E)
   (fp_text reference REF** (at 0.2 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
   )
@@ -46,7 +46,7 @@
   (pad 28 smd rect (at -2 -1.54) (size 0.2 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 29 smd rect (at -2.4 -1.54) (size 0.2 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 30 smd rect (at -2.8 -1.54) (size 0.2 0.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISBLIB}/lcd_kingtech.pretty/DF40C-30DS.wrl
+  (model ${KISBLIB}/lcd_kingtech.pretty/DF40C-30DS.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

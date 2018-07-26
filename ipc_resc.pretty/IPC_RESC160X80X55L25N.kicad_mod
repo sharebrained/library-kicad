@@ -1,4 +1,4 @@
-(module IPC_RESC160X80X55L25N (layer F.Cu) (tedit 5A92E8A3)
+(module IPC_RESC160X80X55L25N (layer F.Cu) (tedit 5B58FF79)
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
@@ -21,5 +21,5 @@
   (fp_line (start -1.365000 0.665000) (end -1.365000 -0.665000) (layer F.CrtYd) (width 0.050000))
   (pad 1 smd rect (at -0.795000 0.000000 0.0) (size 0.740000 0.930000) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.795000 0.000000 0.0) (size 0.740000 0.930000) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Resistors_SMD.3dshapes/R_0603.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
+  (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.step (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

@@ -1,5 +1,6 @@
-(module HIROSE_DF9-41S (layer F.Cu) (tedit 5869FFC6)
+(module HIROSE_DF9-41S (layer F.Cu) (tedit 5B5A01E7)
   (tags FPDI-1)
+  (attr smd)
   (fp_text reference REF** (at 13 3) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.1524)))
   )
@@ -72,9 +73,9 @@
   (pad 39 smd rect (at -9 2.25) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 40 smd rect (at -9.5 -2.25) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 41 smd rect (at -10 2.25) (size 0.7 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ../../../../../home/jboone/src/library-kicad/hirose.pretty/DF9B-41S.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
-    (rotate (xyz 270 0 0))
+  (model ${KISBLIB}/hirose.pretty/DF9B-41S-1V.stp
+    (offset (xyz -25.95 -45.55 3.3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )

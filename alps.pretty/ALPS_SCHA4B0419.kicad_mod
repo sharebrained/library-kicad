@@ -1,4 +1,4 @@
-(module ALPS_SCHA4B0419 (layer F.Cu) (tedit 59403B80)
+(module ALPS_SCHA4B0419 (layer F.Cu) (tedit 59403B81)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
   )
@@ -84,9 +84,9 @@
   (pad 7 smd rect (at -3.775 4.475) (size 0.7 0.75) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -4.775 4.475) (size 0.7 0.75) (layers F.Cu F.Paste F.Mask))
   (pad SH smd rect (at -7.1225 2.765) (size 0.42 4.63) (layers F.Cu F.Paste F.Mask))
-  (model ${KISBLIB}/alps.pretty/SCHA4B0419.wrl
+  (model ${KISBLIB}/alps.pretty/SCHA4B0419.STEP
     (at (xyz 0 0.2954724409448819 0.051969))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

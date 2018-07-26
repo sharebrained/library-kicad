@@ -1,4 +1,4 @@
-(module IPC_QFP144P50_2200X2200X160L60X22N (layer F.Cu) (tedit 5A92E8A3)
+(module IPC_QFP144P50_2200X2200X160L60X22N (layer F.Cu) (tedit 5B5A06CD)
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
@@ -170,5 +170,5 @@
   (pad 142 smd rect (at -7.750000 -10.675000 180.0) (size 0.280000 1.520000) (layers F.Cu F.Paste F.Mask))
   (pad 143 smd rect (at -8.250000 -10.675000 180.0) (size 0.280000 1.520000) (layers F.Cu F.Paste F.Mask))
   (pad 144 smd rect (at -8.750000 -10.675000 180.0) (size 0.280000 1.520000) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_QFP.3dshapes/LQFP-144_20x20mm_Pitch0.5mm.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
+  (model ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-144_20x20mm_P0.5mm.step (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

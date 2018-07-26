@@ -1,7 +1,11 @@
-(module HEADER_13X2_REV_SM_254_AP (layer F.Cu) (tedit 59403A0E)
+(module HEADER_13X2_REV_SM_254_AP (layer F.Cu) (tedit 5B59629D)
   (descr "MLE TSHSM-1")
+  (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
+  )
+  (fp_text value Val** (at 0 0) (layer F.SilkS)
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.3 0.3) (thickness 0.025)))
@@ -75,8 +79,8 @@
     (clearance 0.4))
   (pad "" np_thru_hole circle (at 0 13.97) (size 1.95 1.95) (drill 1.95) (layers *.Cu *.Mask)
     (clearance 0.4))
-  (model ${KISBLIB}/header.pretty/TSM-113-01-L-DV-A-P-TR.wrl
-    (at (xyz 0 0 0.1))
+  (model ${KISBLIB}/header.pretty/TSM-113-01-L-DV-A-P-TR.stp
+    (offset (xyz 0 0 2.54))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )

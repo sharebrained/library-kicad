@@ -1,4 +1,4 @@
-(module IPC_LEDC1608X90L40N (layer F.Cu) (tedit 5A92E8A2)
+(module IPC_LEDC1608X90L40N (layer F.Cu) (tedit 5B5A0547)
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
@@ -26,5 +26,5 @@
   (fp_line (start 0.200000 0.300000) (end 0.200000 -0.300000) (layer F.Fab) (width 0.025000))
   (pad C smd rect (at -0.760000 0.000000 0.0) (size 0.910000 0.930000) (layers F.Cu F.Paste F.Mask))
   (pad A smd rect (at 0.760000 0.000000 0.0) (size 0.910000 0.930000) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LEDs.3dshapes/LED_0603.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 180)))
+  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_0603_1608Metric.step (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

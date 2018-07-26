@@ -1,4 +1,4 @@
-(module TI_RWB_X2QFN-12 (layer F.Cu) (tedit 5A92E8A7)
+(module TI_RWB_X2QFN-12 (layer F.Cu) (tedit 5B5A15F8)
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
@@ -30,5 +30,5 @@
   (pad 10 smd rect (at 0.200000 -0.750000 180.0) (size 0.200000 0.500000) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at -0.200000 -0.750000 180.0) (size 0.200000 0.500000) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at -0.600000 -0.750000 180.0) (size 0.200000 0.500000) (layers F.Cu F.Paste F.Mask))
-  (model ${KISBLIB}/ti.pretty/RWB0012A.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
+  (model ${KISBLIB}/ti.pretty/RWB0012A.stp (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

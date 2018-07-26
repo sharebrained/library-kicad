@@ -1,4 +1,4 @@
-(module IPC_QFN33P40_400X400X80L35X20T280N (layer F.Cu) (tedit 5A92E8A2)
+(module IPC_QFN33P40_400X400X80L35X20T280N (layer F.Cu) (tedit 5B59098C)
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
@@ -62,5 +62,5 @@
   (pad 33 smd rect (at 0.700000 -0.700000 0.0) (size 1.400000 1.400000) (layers F.Cu F.Paste F.Mask) (solder_paste_margin -0.15))
   (pad 33 smd rect (at -0.700000 0.700000 0.0) (size 1.400000 1.400000) (layers F.Cu F.Paste F.Mask) (solder_paste_margin -0.15))
   (pad 33 smd rect (at 0.700000 0.700000 0.0) (size 1.400000 1.400000) (layers F.Cu F.Paste F.Mask) (solder_paste_margin -0.15))
-  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_Pitch0.4mm.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
+  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm.step (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

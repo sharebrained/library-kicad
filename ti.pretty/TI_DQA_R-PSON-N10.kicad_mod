@@ -1,4 +1,4 @@
-(module TI_DQA_R-PSON-N10 (layer F.Cu) (tedit 5A92E8A6)
+(module TI_DQA_R-PSON-N10 (layer F.Cu) (tedit 5B5A15F7)
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
@@ -34,5 +34,5 @@
   (pad 8 smd rect (at 0.420000 0.000000 90.0) (size 0.400000 0.690000) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 0.420000 -0.500000 90.0) (size 0.220000 0.690000) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 0.420000 -1.000000 90.0) (size 0.220000 0.690000) (layers F.Cu F.Paste F.Mask))
-  (model ${KISBLIB}/ti.pretty/DQA0010A.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
+  (model ${KISBLIB}/ti.pretty/DQA0010A.stp (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

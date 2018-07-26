@@ -1,4 +1,4 @@
-(module IPC_SOP14P65_620X780X200L75X30N (layer F.Cu) (tedit 5A92E8A5)
+(module IPC_SOP14P65_620X780X200L75X30N (layer F.Cu) (tedit 5B5A0E2A)
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
@@ -38,5 +38,5 @@
   (pad 12 smd rect (at 3.505000 -0.650000 90.0) (size 0.480000 1.900000) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at 3.505000 -1.300000 90.0) (size 0.480000 1.900000) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at 3.505000 -1.950000 90.0) (size 0.480000 1.900000) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/SSOP-14_5.3x6.2mm_Pitch0.65mm.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/SSOP-14_5.3x6.2mm_P0.65mm.step (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )
