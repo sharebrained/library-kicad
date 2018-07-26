@@ -1,4 +1,4 @@
-(module MPD_BU2032SM-BT-G (layer F.Cu) (tedit 5B596228)
+(module MPD_BU2032SM-BT-G (layer F.Cu) (tedit 5B5A25CE)
   (attr smd)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.12)))
@@ -64,6 +64,6 @@
   (model ${KISBLIB}/bat_coin.pretty/BU2032SM-BT-GTR.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 90 0 0))
+    (rotate (xyz 90 180 0))
   )
 )
