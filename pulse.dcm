@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP T1068NL
+D Pulse Engineering, Quad Port T1/E1 with 8 Transformers, 1500 Vrms
+$ENDCMP
+#
+$CMP T1108NL
+D Pulse Engineering, Quad Port T1/E1 with 8 Transformers, 1500 Vrms
+$ENDCMP
+#
+$CMP TOU_2
+D Pulse Engineering, Quad Port T1/E1 with 8 Transformers, 1500 Vrms
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RClamp3304NA
+D Transient voltage suppressor designed to protect high speed data lines from ESD, EFT, and lightning
+K ESD Protection diodes  transient suppressor
+F http://www.onsemi.com/pub_link/Collateral/NUP4202W1-D.PDF
+$ENDCMP
+#
+#End Doc Library
