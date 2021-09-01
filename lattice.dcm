@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LFE5U-85F-8BG381
+D Lattice ECP5-5G FPGA with SERDES
+K Lattice, ECP5, FPGA, SERDES
+$ENDCMP
+#
+$CMP LFE5UM5G-85F-8BG381
+D Lattice ECP5-5G FPGA with SERDES
+K Lattice, ECP5, FPGA, SERDES
+$ENDCMP
+#
+#End Doc Library

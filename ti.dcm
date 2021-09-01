@@ -28,6 +28,31 @@ D Two-Channel Differential 2:1/1:2 USB3.1 Mux/Demux
 K mux, multiplexer, USB, MIPI, DSI, CSI, FPD, LVDS, PCIe
 $ENDCMP
 #
+$CMP INA180A
+D Low- and high-side voltage output, current-sense amplifier (pinout A)
+F http://www.ti.com/lit/ds/symlink/ina180.pdf
+$ENDCMP
+#
+$CMP INA180B
+D Low- and high-side voltage output, current-sense amplifier (pinout B)
+F http://www.ti.com/lit/ds/symlink/ina180.pdf
+$ENDCMP
+#
+$CMP LMZ30602
+D 2A Power Module with 2.95V-6V Input in QFN Package
+F http://www.ti.com/lit/ds/symlink/lmz30602.pdf
+$ENDCMP
+#
+$CMP LMZ30604
+D 4A Power Module with 2.95V-6V Input in QFN Package
+F http://www.ti.com/lit/ds/symlink/lmz30604.pdf
+$ENDCMP
+#
+$CMP LMZ30606
+D 6A Power Module with 2.95V-6V Input in QFN Package
+F http://www.ti.com/lit/ds/symlink/lmz30606.pdf
+$ENDCMP
+#
 $CMP TLV62090
 D 3A High Efficiency Synchronous Step-Down Converter with DCS-Control
 K regulator, step-down, switching, DC-DC
@@ -41,6 +66,31 @@ $ENDCMP
 $CMP TPS22971YZP
 D 3.6-V, 3-A, 6.7-mΩ On-Resistance Load Switch With Adjustable Fast Turn-ON and Power Good
 K load switch, power good, quick discharge
+$ENDCMP
+#
+$CMP TPS53318
+D High-Efficiency, 8-A or 14-A, Synchronous Buck Converter with Eco-mode Control
+F https://www.ti.com/lit/ds/symlink/tps53318.pdf
+$ENDCMP
+#
+$CMP TPS53319
+D High-Efficiency, 14-A Synchronous Buck Converter with Eco-mode Control
+F https://www.ti.com/lit/ds/symlink/tps53319.pdf
+$ENDCMP
+#
+$CMP TPS62821
+D 5.5-V, 1-A Step-Down Converter with 1% Accuracy
+F http://www.ti.com/lit/ds/symlink/tps62821.pdf
+$ENDCMP
+#
+$CMP TPS62822
+D 5.5-V, 2-A Step-Down Converter with 1% Accuracy
+F http://www.ti.com/lit/ds/symlink/tps62822.pdf
+$ENDCMP
+#
+$CMP TPS62823
+D 5.5-V, 3-A Step-Down Converter with 1% Accuracy
+F http://www.ti.com/lit/ds/symlink/tps62823.pdf
 $ENDCMP
 #
 $CMP TPS65130

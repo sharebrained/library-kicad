@@ -1,5 +1,46 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD5621BKSZ
+D 2.7 V to 5.5 V, <100 μA, 8-/10-/12-Bit nanoDAC, SPI Interface
+K DAC SPI
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5601_5611_5621.pdf
+$ENDCMP
+#
+$CMP AD56[012]1[AB]KSZ
+D 2.7 V to 5.5 V, <100 μA, 8-/10-/12-Bit nanoDAC, SPI Interface
+K DAC SPI
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5601_5611_5621.pdf
+$ENDCMP
+#
+$CMP AD723
+D 2.7 V to 5.5 V RGB-to-NTSC/PAL Encoder with Load Detect and Input Termination Switch
+$ENDCMP
+#
+$CMP ADM7170
+D Analog Devices 6.5 V, 500 mA, Ultralow Noise, High PSRR,Fast Transient Response CMOS LDO
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADM7170.pdf
+$ENDCMP
+#
+$CMP ADM7171
+D Analog Devices 6.5 V, 1 A, Ultralow Noise, High PSRR,Fast Transient Response CMOS LDO
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADM7171.pdf
+$ENDCMP
+#
+$CMP ADM7172
+D Analog Devices 6.5 V, 2 A, Ultralow Noise, High PSRR,Fast Transient Response CMOS LDO
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADM7172.pdf
+$ENDCMP
+#
+$CMP ADP150AUJ
+D Ultralow Noise, 150 mA CMOS Linear Regulator, 5-lead TSOT UJ-5
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP150.pdf
+$ENDCMP
+#
+$CMP ADP151AUJ
+D Ultralow Noise, 200 mA, CMOS Linear Regulator, 5-lead TSOT UJ-5
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP151.pdf
+$ENDCMP
+#
 $CMP HMC190BMS8
 D GaAs MMIC SPDT Switch, DC - 3GHz
 K RF Switch

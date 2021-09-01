@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP QSPI8
+D Quad SPI flash memory, 8-pin leaded package
+K SPI, Quad, QSPI, flash
+$ENDCMP
+#
 $CMP SST39SF0[124]0A_PH
 D JEDEC Flash x8 pinout, DIP
 K JEDEC, Flash
@@ -8,6 +13,36 @@ $ENDCMP
 $CMP SST39SF0[124]0A_WH
 D JEDEC Flash x8 pinout, TSOP
 K JEDEC, Flash
+$ENDCMP
+#
+$CMP W25Q128JVE
+D Quad SPI flash memory, 8-pin leaded package, 128Mbit, 3.3V
+K SPI, Quad, QSPI, flash, 128Mb, 3.3V
+$ENDCMP
+#
+$CMP W25Q128JVP
+D Quad SPI flash memory, 8-pin leaded package, 128Mbit, 3.3V
+K SPI, Quad, QSPI, flash, 128Mb, 3.3V
+$ENDCMP
+#
+$CMP W25Q128JVS
+D Quad SPI flash memory, 8-pin leaded package, 128Mbit, 3.3V
+K SPI, Quad, QSPI, flash, 128Mb, 3.3V
+$ENDCMP
+#
+$CMP W25Q128JWE
+D Quad SPI flash memory, 8-pin leaded package, 128Mbit, 1.8V, WSON8 8x6
+K SPI, Quad, QSPI, flash, 128Mb, 1.8V, WSON8 8x6
+$ENDCMP
+#
+$CMP W25Q128JWP
+D Quad SPI flash memory, 8-pin leaded package, 128Mbit, 1.8V, WSON8 6x5
+K SPI, Quad, QSPI, flash, 128Mb, 1.8V, WSON8 6x5
+$ENDCMP
+#
+$CMP W25Q128JWS
+D Quad SPI flash memory, 8-pin leaded package, 128Mbit, 1.8V, SOIC8 208mil
+K SPI, Quad, QSPI, flash, 128Mb, 1.8V, SOIC8 208mil
 $ENDCMP
 #
 #End Doc Library
